@@ -1,5 +1,6 @@
 # sql_exercise
 对一个查询，按照以下格式进行注释：  
+
     -- Multivalued subquery 选出Sales.Customers中所有出现在Sales.Orders中的custid和companyname  
     SELECT custid, companyname  
     FROM Sales.Customers  
